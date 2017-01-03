@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Emergency Alert System"
+    />
+    
+        <EditText
+        android:id="@+id/editTextLat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       
+        android:gravity="top" />
+ 
+    <EditText
+        android:id="@+id/textlon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       
+        android:gravity="top" />
+    
+    <Button
+        android:id="@+id/buttonSend"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Location"
+        android:onClick="showLocation" />
+    
+    
+    
+</LinearLayout>

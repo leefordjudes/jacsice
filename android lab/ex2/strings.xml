@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Layout Manager</string>
+    <string name="layoutpgm">Layout Manager Demo</string>
+    <string name="imagedesc">Just an Image</string>
+    <string name="clickme">Click Me</string>
+    <string name="longclickme">Long Click Me</string>
+    <string name="gridlongclick">Click \n or \n Long CLick \n Me</string>
+    <string name="showmyname">Show \nMy \nName</string>
+    <string name="entername">Enter your Name</string>
+
+</resources>
